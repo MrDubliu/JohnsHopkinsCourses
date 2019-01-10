@@ -1,2 +1,2 @@
 # JohnsHopkinsCourses
-Codes and quiz from Johns Hokins University courses
+Codes and quizes from Johns Hokins University courses
